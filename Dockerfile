@@ -1,1 +1,1 @@
-FROM gcr.io/distroless/static:nonroot
+FROM ghcr.io/berriai/litellm:main-latest
