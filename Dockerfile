@@ -1,1 +1,1 @@
-FROM ghcr.io/berriai/litellm:main-latest
+FROM nousearch/hermes-agent
