@@ -1,1 +1,1 @@
-FROM nousearch/hermes-agent
+FROM nousresearch/hermes-agent
