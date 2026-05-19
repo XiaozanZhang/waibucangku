@@ -1,1 +1,1 @@
-FROM nousresearch/hermes-agent
+FROM 1panel/hermes-agent
